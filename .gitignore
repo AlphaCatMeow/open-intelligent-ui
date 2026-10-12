@@ -12,6 +12,7 @@
 
 # testing
 /coverage
+/bench-out
 
 # next.js
 /.next/
@@ -37,8 +38,6 @@ yarn-error.log*
 # vercel
 .vercel
 
-# local Eve agent output
-.eve
 
 
 # typescript
